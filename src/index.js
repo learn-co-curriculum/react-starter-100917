@@ -1,18 +1,5 @@
-// const createElement = (type, props = {}, children) => {
-//   return {
-//     $$typeof: Symbol.for('react.element'),
-//     type: type,
-//     props: { ...props, children: children },
-//     ref: null
-//   };
-// };
-
-const Article = props => {
-  return React.createElement('div', {}, [
-    React.createElement('h1', {}, props.title),
-    React.createElement('p', {}, props.text)
-  ]);
-};
+import ReactDOM from 'react-dom';
+import React from 'react';
 
 const NavBar = props => {
   return React.createElement(
@@ -34,6 +21,32 @@ const NavBar = props => {
   );
 };
 
+ReactDOM.render(
+  NavBar({
+    color: 'green',
+    title: 'Paintr',
+    icon: 'paint brush',
+    description: 'wow idk what this does'
+  }),
+  document.getElementById('main')
+);
+// // const createElement = (type, props = {}, children) => {
+// //   return {
+// //     $$typeof: Symbol.for('react.element'),
+// //     type: type,
+// //     props: { ...props, children: children },
+// //     ref: null
+// //   };
+// // };
+//
+// const Article = props => {
+//   return React.createElement('div', {}, [
+//     React.createElement('h1', {}, props.title),
+//     React.createElement('p', {}, props.text)
+//   ]);
+// };
+//
+
 // <div class="ui inverted orange menu">
 //     <a class='item'>
 //       <h2 class="ui header">
@@ -47,13 +60,3 @@ const NavBar = props => {
 //       </h2>
 //     </a>
 //   </div>
-
-ReactDOM.render(
-  NavBar({
-    color: 'green',
-    title: 'Paintr',
-    icon: 'paint brush',
-    description: 'wow idk what this does'
-  }),
-  document.getElementById('main')
-);
