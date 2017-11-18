@@ -1,0 +1,24 @@
+{
+  "name": "react-lecture-1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/learn-co-curriculum/react-lecture-1-starter.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/learn-co-curriculum/react-lecture-1-starter/issues"
+  },
+  "homepage": "https://github.com/learn-co-curriculum/react-lecture-1-starter#readme",
+  "dependencies": {
+    "react": "^16.1.1",
+    "react-dom": "^16.1.1",
+    "semantic-ui-css": "^2.2.12"
+  }
+}
