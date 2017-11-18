@@ -4,21 +4,31 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "webpack-dev-server",
+    "build": "webpack"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/learn-co-curriculum/react-lecture-1-starter.git"
+    "url":
+      "git+https://github.com/learn-co-curriculum/react-lecture-1-starter.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/learn-co-curriculum/react-lecture-1-starter/issues"
+    "url":
+      "https://github.com/learn-co-curriculum/react-lecture-1-starter/issues"
   },
-  "homepage": "https://github.com/learn-co-curriculum/react-lecture-1-starter#readme",
+  "homepage":
+    "https://github.com/learn-co-curriculum/react-lecture-1-starter#readme",
   "dependencies": {
+    "babel-core": "^6.26.0",
+    "babel-loader": "^7.1.2",
+    "babel-preset-env": "^1.6.1",
+    "babel-preset-react": "^6.24.1",
     "react": "^16.1.1",
     "react-dom": "^16.1.1",
-    "semantic-ui-css": "^2.2.12"
+    "semantic-ui-css": "^2.2.12",
+    "webpack": "^3.8.1",
+    "webpack-dev-server": "^2.9.4"
   }
 }
