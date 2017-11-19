@@ -19,7 +19,8 @@ export default [
       hometown: 'Baarle-Hertog, Belgium',
       birthday: '1410',
       deathday: '1475'
-    }
+    },
+    votes: 64
   },
   {
     id: '59bd5a4c275b247913821d2a',
@@ -41,7 +42,8 @@ export default [
       hometown: 'Delft, Netherlands',
       birthday: '1632',
       deathday: '1675'
-    }
+    },
+    votes: 21
   },
   {
     id: '59bd5a2acb4c274d74388a33',
@@ -63,7 +65,8 @@ export default [
       hometown: 'Leiden, Netherlands',
       birthday: '1606',
       deathday: '1669'
-    }
+    },
+    votes: 30
   },
   {
     id: '59bd59ee9c18db5297a32338',
@@ -85,7 +88,8 @@ export default [
       hometown: 'Siegen, Westphalia',
       birthday: '1577',
       deathday: '1640'
-    }
+    },
+    votes: 96
   },
   {
     id: '59bd59eba09a672fdae25803',
@@ -107,7 +111,8 @@ export default [
       hometown: 'Baarle-Hertog, Belgium',
       birthday: '1410',
       deathday: '1475'
-    }
+    },
+    votes: 80
   },
   {
     id: '59bd59dda09a672f268ace8a',
@@ -131,7 +136,8 @@ export default [
       hometown: 'Siegen, Westphalia',
       birthday: '1577',
       deathday: '1640'
-    }
+    },
+    votes: 47
   },
   {
     id: '59bd59dc7622dd4d72211a0a',
@@ -153,7 +159,8 @@ export default [
       hometown: 'Leiden, Netherlands',
       birthday: '1606',
       deathday: '1669'
-    }
+    },
+    votes: 46
   },
   {
     id: '59bd59dc139b214a3672abe5',
@@ -175,7 +182,8 @@ export default [
       hometown: 'Delft, Netherlands',
       birthday: '1632',
       deathday: '1675'
-    }
+    },
+    votes: 95
   },
   {
     id: '59bd59db139b2149937fce24',
@@ -197,7 +205,8 @@ export default [
       hometown: 'Leiden, Netherlands',
       birthday: '1606',
       deathday: '1669'
-    }
+    },
+    votes: 41
   },
   {
     id: '59bd59d57622dd4d722119ee',
@@ -219,7 +228,8 @@ export default [
       hometown: 'Siegen, Westphalia',
       birthday: '1577',
       deathday: '1640'
-    }
+    },
+    votes: 37
   },
   {
     id: '59bd59d4275b247913821bce',
@@ -241,7 +251,8 @@ export default [
       hometown: 'Antwerp, Belgium',
       birthday: '1546',
       deathday: '1611'
-    }
+    },
+    votes: 30
   },
   {
     id: '516dfbcfed1712d0a8000c6d',
@@ -263,7 +274,8 @@ export default [
       hometown: 'Antwerp, Belgium',
       birthday: '1582',
       deathday: '1666'
-    }
+    },
+    votes: 25
   },
   {
     id: '516dfa97fdc44191d60005e2',
@@ -285,7 +297,8 @@ export default [
       hometown: 'Delft, Netherlands',
       birthday: '1632',
       deathday: '1675'
-    }
+    },
+    votes: 18
   },
   {
     id: '516dfa059ad2d3888600167a',
@@ -307,7 +320,8 @@ export default [
       hometown: 'Antwerp, Belgium',
       birthday: '1599',
       deathday: '1641'
-    }
+    },
+    votes: 93
   },
   {
     id: '516df8a1fdc4419488000c2e',
@@ -329,7 +343,8 @@ export default [
       hometown: 'Delft, Netherlands',
       birthday: '1632',
       deathday: '1675'
-    }
+    },
+    votes: 43
   },
   {
     id: '516df82b9ad2d32b27000b74',
@@ -351,7 +366,8 @@ export default [
       hometown: 'Delft, Netherlands',
       birthday: '1632',
       deathday: '1675'
-    }
+    },
+    votes: 28
   },
   {
     id: '516df67aed1712e96f000c5a',
@@ -373,7 +389,8 @@ export default [
       hometown: 'Antwerp, Belgium',
       birthday: '1599',
       deathday: '1641'
-    }
+    },
+    votes: 83
   },
   {
     id: '516df640fdc44191d600040d',
@@ -396,7 +413,8 @@ export default [
       hometown: 'Gorinchem, Netherlands',
       birthday: '1566',
       deathday: '1651'
-    }
+    },
+    votes: 32
   },
   {
     id: '516df3e9b31e2bd65e000aee',
@@ -418,7 +436,8 @@ export default [
       hometown: 'Gorinchem, Netherlands',
       birthday: '1566',
       deathday: '1651'
-    }
+    },
+    votes: 39
   },
   {
     id: '516df2d1ed1712e96f000ab7',
@@ -440,7 +459,8 @@ export default [
       hometown: 'Oostzaan, Netherlands',
       birthday: '1470',
       deathday: '1533'
-    }
+    },
+    votes: 60
   },
   {
     id: '516de6aeed1712d0a8000389',
@@ -462,7 +482,8 @@ export default [
       hometown: 'Gorinchem, Netherlands',
       birthday: '1566',
       deathday: '1651'
-    }
+    },
+    votes: 90
   },
   {
     id: '516dde5efdc441948800029d',
@@ -484,7 +505,8 @@ export default [
       hometown: 'Oostzaan, Netherlands',
       birthday: '1470',
       deathday: '1533'
-    }
+    },
+    votes: 10
   },
   {
     id: '516ddd589ad2d38886000c73',
@@ -506,7 +528,8 @@ export default [
       hometown: '',
       birthday: '',
       deathday: ''
-    }
+    },
+    votes: 15
   },
   {
     id: '516cca8fb31e2b83810005d2',
@@ -528,7 +551,8 @@ export default [
       hometown: 'Haarlem, Netherlands',
       birthday: '1628',
       deathday: '1682'
-    }
+    },
+    votes: 27
   },
   {
     id: '516cc91ded1712cccd000597',
@@ -550,7 +574,8 @@ export default [
       hometown: 'Leiden, Netherlands',
       birthday: '1606',
       deathday: '1669'
-    }
+    },
+    votes: 0
   },
   {
     id: '516cc8ec9ad2d38886000571',
@@ -572,7 +597,8 @@ export default [
       hometown: '',
       birthday: '',
       deathday: ''
-    }
+    },
+    votes: 24
   },
   {
     id: '516cc8be9ad2d38886000555',
@@ -594,7 +620,8 @@ export default [
       hometown: '',
       birthday: '1542',
       deathday: '1601'
-    }
+    },
+    votes: 22
   },
   {
     id: '516cc793b31e2b8bf6000497',
@@ -616,7 +643,8 @@ export default [
       hometown: 'Leiden, Netherlands',
       birthday: '1606',
       deathday: '1669'
-    }
+    },
+    votes: 0
   },
   {
     id: '516cc754ed1712cccd0004c9',
@@ -638,7 +666,8 @@ export default [
       hometown: 'Leiden, Netherlands',
       birthday: '1606',
       deathday: '1669'
-    }
+    },
+    votes: 57
   },
   {
     id: '516cc3a9ed1712c8be000307',
@@ -660,7 +689,8 @@ export default [
       hometown: 'Leiden, Netherlands',
       birthday: '1606',
       deathday: '1669'
-    }
+    },
+    votes: 28
   },
   {
     id: '516cc396ed1712c8be0002f9',
@@ -682,7 +712,8 @@ export default [
       hometown: 'Leiden, Netherlands',
       birthday: '1606',
       deathday: '1669'
-    }
+    },
+    votes: 26
   },
   {
     id: '516cc35f9ad2d32bec000311',
@@ -704,7 +735,8 @@ export default [
       hometown: 'Leiden, Netherlands',
       birthday: '1606',
       deathday: '1669'
-    }
+    },
+    votes: 21
   },
   {
     id: '516cc2ae9ad2d32bec0002d9',
@@ -726,7 +758,8 @@ export default [
       hometown: 'Leiden, Netherlands',
       birthday: '1606',
       deathday: '1669'
-    }
+    },
+    votes: 19
   },
   {
     id: '516cc191fdc441e52f000232',
@@ -748,7 +781,8 @@ export default [
       hometown: 'Gorinchem, Netherlands',
       birthday: '1566',
       deathday: '1651'
-    }
+    },
+    votes: 5
   },
   {
     id: '516cc191ed1712cccd000211',
@@ -770,7 +804,8 @@ export default [
       hometown: 'Gorinchem, Netherlands',
       birthday: '1566',
       deathday: '1651'
-    }
+    },
+    votes: 80
   },
   {
     id: '515cfe58b5907bf7e8001d67',
@@ -792,7 +827,8 @@ export default [
       hometown: 'Oostzaan, Netherlands',
       birthday: '1470',
       deathday: '1533'
-    }
+    },
+    votes: 16
   },
   {
     id: '515cf9df7b7057eb4c001da7',
@@ -814,7 +850,8 @@ export default [
       hometown: 'Oostzaan, Netherlands',
       birthday: '1470',
       deathday: '1533'
-    }
+    },
+    votes: 9
   },
   {
     id: '515cf007769659e1fb00181e',
@@ -836,7 +873,8 @@ export default [
       hometown: '',
       birthday: '1542',
       deathday: '1601'
-    }
+    },
+    votes: 58
   },
   {
     id: '515ce7547b7057eb4c001427',
@@ -858,7 +896,8 @@ export default [
       hometown: 'Oostzaan, Netherlands',
       birthday: '1470',
       deathday: '1533'
-    }
+    },
+    votes: 5
   },
   {
     id: '515cdbde5eeb1c524c000d03',
@@ -880,7 +919,8 @@ export default [
       hometown: '',
       birthday: '1542',
       deathday: '1601'
-    }
+    },
+    votes: 65
   },
   {
     id: '515cd58b7696593fde000ab8',
@@ -902,7 +942,8 @@ export default [
       hometown: 'Oostzaan, Netherlands',
       birthday: '1470',
       deathday: '1533'
-    }
+    },
+    votes: 15
   },
   {
     id: '515ccef5b5907b33b1000713',
@@ -924,7 +965,8 @@ export default [
       hometown: 'Haarlem, Netherlands',
       birthday: '1628',
       deathday: '1682'
-    }
+    },
+    votes: 45
   },
   {
     id: '4eb063a5b1976400010071f0',
@@ -946,7 +988,8 @@ export default [
       hometown: 'Leiden, Netherlands',
       birthday: '1606',
       deathday: '1669'
-    }
+    },
+    votes: 64
   },
   {
     id: '537fc9354b84807c4b0000f0',
@@ -968,7 +1011,8 @@ export default [
       hometown: 'Haarlem, Netherlands',
       birthday: '1602',
       deathday: '1675'
-    }
+    },
+    votes: 89
   },
   {
     id: '537fc7b3c9dc2416f30000c4',
@@ -990,7 +1034,8 @@ export default [
       hometown: 'Haarlem, Netherlands',
       birthday: '1591',
       deathday: '1656'
-    }
+    },
+    votes: 89
   },
   {
     id: '537fc6488b3b81033400008f',
@@ -1012,7 +1057,8 @@ export default [
       hometown: '',
       birthday: '',
       deathday: ''
-    }
+    },
+    votes: 82
   },
   {
     id: '537fc3d5b202a31f870000b8',
@@ -1034,7 +1080,8 @@ export default [
       hometown: 'Utrecht, Netherlands',
       birthday: '1569',
       deathday: '1627'
-    }
+    },
+    votes: 76
   },
   {
     id: '537fc1f1cb4c27a2b60000ed',
@@ -1056,7 +1103,8 @@ export default [
       hometown: 'Antwerp, Belgium',
       birthday: 'c. 1544',
       deathday: 'After 1589'
-    }
+    },
+    votes: 13
   },
   {
     id: '537fb94dc9dc2416f3000056',
@@ -1079,7 +1127,8 @@ export default [
       hometown: 'Oostzaan, Netherlands',
       birthday: 'c. 1477',
       deathday: '1533'
-    }
+    },
+    votes: 6
   },
   {
     id: '4f9bcc1f7e5be80001000569',
@@ -1101,7 +1150,8 @@ export default [
       hometown: 'The Hague, Netherlands',
       birthday: '1588',
       deathday: '1629'
-    }
+    },
+    votes: 18
   },
   {
     id: '4f9bcc1f46a02d000100063b',
@@ -1123,7 +1173,8 @@ export default [
       hometown: 'Delft, Netherlands',
       birthday: '1632',
       deathday: '1675'
-    }
+    },
+    votes: 9
   },
   {
     id: '4f9b033d0545300001000864',
@@ -1145,7 +1196,8 @@ export default [
       hometown: 'Delft, Netherlands',
       birthday: '1632',
       deathday: '1675'
-    }
+    },
+    votes: 83
   },
   {
     id: '4f99d0a747c98f0001000478',
@@ -1167,7 +1219,8 @@ export default [
       hometown: 'Leiden, Netherlands',
       birthday: '1606',
       deathday: '1669'
-    }
+    },
+    votes: 54
   },
   {
     id: '4f99d0a740d3cf0001000408',
@@ -1189,7 +1242,8 @@ export default [
       hometown: 'Leiden, Netherlands',
       birthday: '1606',
       deathday: '1669'
-    }
+    },
+    votes: 48
   },
   {
     id: '53971449cd530e9300000015',
@@ -1211,7 +1265,8 @@ export default [
       hometown: 'Leiden, Netherlands',
       birthday: '1606',
       deathday: '1669'
-    }
+    },
+    votes: 49
   },
   {
     id: '535822ebc9dc2404db0000ab',
@@ -1233,7 +1288,8 @@ export default [
       hometown: 'Leiden, Netherlands',
       birthday: '1494',
       deathday: '1533'
-    }
+    },
+    votes: 54
   },
   {
     id: '535820e3cb4c271fc30000a9',
@@ -1255,7 +1311,8 @@ export default [
       hometown: '',
       birthday: '1533',
       deathday: '1574'
-    }
+    },
+    votes: 62
   },
   {
     id: '53581e62a09a6714a10000a5',
@@ -1277,7 +1334,8 @@ export default [
       hometown: '',
       birthday: '1562',
       deathday: '1638'
-    }
+    },
+    votes: 21
   },
   {
     id: '5357fe359c18db8b6500028d',
@@ -1299,7 +1357,8 @@ export default [
       hometown: 'Amsterdam, Netherlands',
       birthday: '1585',
       deathday: '1634'
-    }
+    },
+    votes: 81
   },
   {
     id: '5357df7f9c18dbac2b000040',
@@ -1322,7 +1381,8 @@ export default [
       hometown: 'Assendelft, Netherlands',
       birthday: '1597',
       deathday: '1665'
-    }
+    },
+    votes: 53
   },
   {
     id: '5357dbca139b21ec81000224',
@@ -1339,7 +1399,8 @@ export default [
     title: 'Italian Landscape with a Draughtsman',
     image:
       'https://d32dm0rphc51dk.cloudfront.net/3PEnf7HkIgFFAfrmpm6qfw/medium.jpg',
-    artist: { name: 'Jan Both', hometown: '', birthday: '', deathday: '1652' }
+    artist: { name: 'Jan Both', hometown: '', birthday: '', deathday: '1652' },
+    votes: 32
   },
   {
     id: '5357da03cb4c2786a3000020',
@@ -1361,7 +1422,8 @@ export default [
       hometown: 'Dordrecht, Netherlands',
       birthday: 'October 20, 1620',
       deathday: 'November 15, 1691'
-    }
+    },
+    votes: 29
   },
   {
     id: '5357d5288b3b813fcd00004a',
@@ -1385,7 +1447,8 @@ export default [
       hometown: 'Leiden, Netherlands',
       birthday: '1606',
       deathday: '1669'
-    }
+    },
+    votes: 50
   },
   {
     id: '5357d2cfa09a679102000045',
@@ -1407,7 +1470,8 @@ export default [
       hometown: 'Leiden, Netherlands',
       birthday: '1606',
       deathday: '1669'
-    }
+    },
+    votes: 25
   },
   {
     id: '5357d09c7622dd0ff400002a',
@@ -1429,7 +1493,8 @@ export default [
       hometown: 'Leiden, Netherlands',
       birthday: '1606',
       deathday: '1669'
-    }
+    },
+    votes: 29
   },
   {
     id: '53559fedb202a3262000016a',
@@ -1451,7 +1516,8 @@ export default [
       hometown: '',
       birthday: '',
       deathday: '1693'
-    }
+    },
+    votes: 45
   },
   {
     id: '53559d87cd530e850c000166',
@@ -1473,7 +1539,8 @@ export default [
       hometown: 'Delft, Netherlands',
       birthday: '1632',
       deathday: '1675'
-    }
+    },
+    votes: 2
   },
   {
     id: '52165a4c8b3b8194f8000375',
@@ -1495,7 +1562,8 @@ export default [
       hometown: 'Leiden, Netherlands',
       birthday: '1606',
       deathday: '1669'
-    }
+    },
+    votes: 61
   },
   {
     id: '52165a468b3b818e07000326',
@@ -1517,7 +1585,8 @@ export default [
       hometown: 'The Hague, Netherlands',
       birthday: '1664',
       deathday: '1750'
-    }
+    },
+    votes: 30
   },
   {
     id: '52165a44a09a6722e6000202',
@@ -1539,7 +1608,8 @@ export default [
       hometown: 'Leiden, Netherlands',
       birthday: '1606',
       deathday: '1669'
-    }
+    },
+    votes: 91
   },
   {
     id: '52165618275b24d741000365',
@@ -1562,7 +1632,8 @@ export default [
       hometown: 'Antwerp, Belgium',
       birthday: 'ca. 1589',
       deathday: 'ca. 1657'
-    }
+    },
+    votes: 43
   },
   {
     id: '52164e4ba09a671d7b000149',
@@ -1584,7 +1655,8 @@ export default [
       hometown: 'Siegen, Westphalia',
       birthday: '1577',
       deathday: '1640'
-    }
+    },
+    votes: 70
   },
   {
     id: '52164e47275b2488dc0002de',
@@ -1606,7 +1678,8 @@ export default [
       hometown: 'Antwerp, Belgium',
       birthday: '1599',
       deathday: '1641'
-    }
+    },
+    votes: 55
   },
   {
     id: '5213ad80275b24065c000262',
@@ -1628,7 +1701,8 @@ export default [
       hometown: null,
       birthday: 'ca. 1450',
       deathday: '1516'
-    }
+    },
+    votes: 35
   },
   {
     id: '4d8b93394eb68a1b2c0010fa',
@@ -1652,7 +1726,8 @@ export default [
       hometown: 'Leiden, Netherlands',
       birthday: '1606',
       deathday: '1669'
-    }
+    },
+    votes: 81
   },
   {
     id: '52027ff2c9dc244506000022',
@@ -1674,7 +1749,8 @@ export default [
       hometown: 'Baarle-Hertog, Belgium',
       birthday: '1410',
       deathday: '1475'
-    }
+    },
+    votes: 29
   },
   {
     id: '52027ff17622dd65a00001b9',
@@ -1696,7 +1772,8 @@ export default [
       hometown: 'Ghent, Belgium',
       birthday: 'ca. 1440',
       deathday: '1482'
-    }
+    },
+    votes: 7
   },
   {
     id: '516cbe96b31e2b83810000fb',
@@ -1718,7 +1795,8 @@ export default [
       hometown: 'Antwerp, Belgium',
       birthday: '1599',
       deathday: '1641'
-    }
+    },
+    votes: 35
   },
   {
     id: '516cbb9f078b32147800106c',
@@ -1740,7 +1818,8 @@ export default [
       hometown: 'Haarlem, Netherlands',
       birthday: '1628',
       deathday: '1682'
-    }
+    },
+    votes: 15
   },
   {
     id: '516cb9f9078b321478000f7b',
@@ -1763,7 +1842,8 @@ export default [
       hometown: 'Leiden, Netherlands',
       birthday: '1606',
       deathday: '1669'
-    }
+    },
+    votes: 82
   },
   {
     id: '516cb9b5472cb883150010e5',
@@ -1785,7 +1865,8 @@ export default [
       hometown: 'Leiden, Netherlands',
       birthday: '1606',
       deathday: '1669'
-    }
+    },
+    votes: 75
   },
   {
     id: '516cb788b83d23c47100101e',
@@ -1807,7 +1888,8 @@ export default [
       hometown: 'Oostzaan, Netherlands',
       birthday: '1470',
       deathday: '1533'
-    }
+    },
+    votes: 56
   },
   {
     id: '516cb6cfb83d23c471000fc3',
@@ -1829,7 +1911,8 @@ export default [
       hometown: 'Leiden, Netherlands',
       birthday: '1606',
       deathday: '1669'
-    }
+    },
+    votes: 63
   },
   {
     id: '516cb5910f8b78534400017e',
@@ -1851,7 +1934,8 @@ export default [
       hometown: 'Leiden, Netherlands',
       birthday: '1606',
       deathday: '1669'
-    }
+    },
+    votes: 18
   },
   {
     id: '516cb4030f8b7853440000e1',
@@ -1873,7 +1957,8 @@ export default [
       hometown: 'Antwerp, Belgium',
       birthday: '1582',
       deathday: '1666'
-    }
+    },
+    votes: 63
   },
   {
     id: '516cb3fb078b327cee000d0f',
@@ -1895,7 +1980,8 @@ export default [
       hometown: 'Haarlem, Netherlands',
       birthday: '1628',
       deathday: '1682'
-    }
+    },
+    votes: 54
   },
   {
     id: '516cb2da078b327cee000c4c',
@@ -1917,7 +2003,8 @@ export default [
       hometown: 'Leiden, Netherlands',
       birthday: '1606',
       deathday: '1669'
-    }
+    },
+    votes: 96
   },
   {
     id: '516cb268b83d23c471000df2',
@@ -1939,7 +2026,8 @@ export default [
       hometown: 'Leiden, Netherlands',
       birthday: '1606',
       deathday: '1669'
-    }
+    },
+    votes: 12
   },
   {
     id: '516cb239078b327cee000bff',
@@ -1962,7 +2050,8 @@ export default [
       hometown: 'Leiden, Netherlands',
       birthday: '1606',
       deathday: '1669'
-    }
+    },
+    votes: 11
   },
   {
     id: '516cb213b83d23c471000dd6',
@@ -1984,7 +2073,8 @@ export default [
       hometown: 'Leiden, Netherlands',
       birthday: '1606',
       deathday: '1669'
-    }
+    },
+    votes: 44
   },
   {
     id: '516cb03d078b327cee000b23',
@@ -2007,7 +2097,8 @@ export default [
       hometown: 'Leiden, Netherlands',
       birthday: '1606',
       deathday: '1669'
-    }
+    },
+    votes: 9
   },
   {
     id: '516caf11078b321478000b0b',
@@ -2029,7 +2120,8 @@ export default [
       hometown: 'Antwerp, Belgium',
       birthday: '1599',
       deathday: '1641'
-    }
+    },
+    votes: 4
   },
   {
     id: '516cae82078b327cee000a8c',
@@ -2051,7 +2143,8 @@ export default [
       hometown: 'Leiden, Netherlands',
       birthday: '1606',
       deathday: '1669'
-    }
+    },
+    votes: 32
   },
   {
     id: '516cac3ab83d23b4db000b79',
@@ -2073,7 +2166,8 @@ export default [
       hometown: 'Leiden, Netherlands',
       birthday: '1606',
       deathday: '1669'
-    }
+    },
+    votes: 76
   },
   {
     id: '516cab78b83d23c471000b28',
@@ -2095,7 +2189,8 @@ export default [
       hometown: '',
       birthday: '',
       deathday: ''
-    }
+    },
+    votes: 83
   },
   {
     id: '516cab0f078b321478000973',
@@ -2117,7 +2212,8 @@ export default [
       hometown: 'Leiden, Netherlands',
       birthday: '1606',
       deathday: '1669'
-    }
+    },
+    votes: 39
   },
   {
     id: '516ca8c2078b321478000892',
@@ -2139,7 +2235,8 @@ export default [
       hometown: 'Leiden, Netherlands',
       birthday: '1606',
       deathday: '1669'
-    }
+    },
+    votes: 18
   },
   {
     id: '516ca845078b327cee000860',
@@ -2161,7 +2258,8 @@ export default [
       hometown: 'Leiden, Netherlands',
       birthday: '1606',
       deathday: '1669'
-    }
+    },
+    votes: 35
   },
   {
     id: '516ca61c472cb83069000877',
@@ -2183,7 +2281,8 @@ export default [
       hometown: 'Siegen, Westphalia',
       birthday: '1577',
       deathday: '1640'
-    }
+    },
+    votes: 21
   },
   {
     id: '516ca5260f8b78506700080b',
@@ -2205,6 +2304,7 @@ export default [
       hometown: 'Leiden, Netherlands',
       birthday: '1606',
       deathday: '1669'
-    }
+    },
+    votes: 95
   }
 ];

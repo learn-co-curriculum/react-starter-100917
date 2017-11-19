@@ -1,9 +1,8 @@
 import React from 'react';
 import Painting from './Painting';
-import artworks from '../../artworks';
 
-const PaintingsList = () => {
-  const paintings = artworks.map(painting => (
+const PaintingsList = props => {
+  const paintings = props.paintings.map(painting => (
     <Painting
       key={painting.id}
       image={painting.image}
@@ -11,13 +10,14 @@ const PaintingsList = () => {
       artist={painting.artist}
       year={painting.date}
       dimensions={painting.dimensions}
+      votes={painting.votes}
     />
   ));
 
   return (
     <div>
       <h1>Paintings</h1>
-      <ul>{paintings}</ul>
+      <div className="ui unstackable items">{paintings}</div>
     </div>
   );
 };

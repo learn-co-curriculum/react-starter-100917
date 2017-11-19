@@ -1,6 +1,7 @@
 import React from 'react';
 import NavBar from './NavBar';
 import PaintingsList from './PaintingsList';
+import artworks from '../../artworks';
 
 const App = () => {
   return (
@@ -11,7 +12,7 @@ const App = () => {
         icon="paint brush"
         description="an app we made"
       />
-      <PaintingsList />
+      <PaintingsList paintings={artworks} />
     </div>
   );
 };
