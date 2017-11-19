@@ -1,8 +1,7 @@
 import React from 'react';
 import Painting from './Painting';
-import artworks from '../../artworks';
 
-const PaintingsList = () => {
+const PaintingsList = ({ artworks }) => {
   const paintings = artworks.map(painting => (
     <Painting
       key={painting.id}
