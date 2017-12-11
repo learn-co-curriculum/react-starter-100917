@@ -1,0 +1,24 @@
+{
+  "name": "react-starter-100917",
+  "version": "1.0.0",
+  "description": "+ Managing State  - state lives in different places  - difficult to keep the DOM in sync correctly  - keep track of chnages to State",
+  "main": "navbar-example.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/learn-co-curriculum/react-starter-100917.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/learn-co-curriculum/react-starter-100917/issues"
+  },
+  "homepage": "https://github.com/learn-co-curriculum/react-starter-100917#readme",
+  "dependencies": {
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0",
+    "semantic-ui-css": "^2.2.12"
+  }
+}
