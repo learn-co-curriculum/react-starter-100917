@@ -9,17 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url":
-      "git+https://github.com/learn-co-curriculum/react-lecture-1-starter.git"
+    "url": "git+https://github.com/learn-co-curriculum/react-lecture-1-starter.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url":
-      "https://github.com/learn-co-curriculum/react-lecture-1-starter/issues"
+    "url": "https://github.com/learn-co-curriculum/react-lecture-1-starter/issues"
   },
-  "homepage":
-    "https://github.com/learn-co-curriculum/react-lecture-1-starter#readme",
+  "homepage": "https://github.com/learn-co-curriculum/react-lecture-1-starter#readme",
   "dependencies": {
     "babel-core": "^6.26.0",
     "babel-loader": "^7.1.2",
